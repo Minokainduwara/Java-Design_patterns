@@ -20,3 +20,9 @@ Enums can also be used to implement a singleton pattern. Why?
 - Java guarantees that each enum constant is instantiated only once, no matter what.
 
 - It’s automatically thread-safe, serialization-safe, and reflection-safe.
+
+
+
+This Repo Contains a real world use case scenario of a logging system
+
+>**Clone the repo and execute LoggerDemo.java**
